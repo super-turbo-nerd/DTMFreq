@@ -13,7 +13,7 @@
 
 ## 📦 Download
 
-You can download the app directly from the [Microsoft Store](https://apps.microsoft.com/detail/DTMFreq/9nblggh12345).
+You can download the app directly from the [Microsoft Store](https://apps.microsoft.com/detail/9NV244T5J7PG).
 
 ## 🛡️ Privacy
 
