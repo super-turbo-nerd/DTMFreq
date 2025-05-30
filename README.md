@@ -18,7 +18,7 @@ You can download the app directly from the [Microsoft Store](https://apps.micros
 ## 🛡️ Privacy
 
 This app does **not** collect or transmit any personal data.  
-[Privacy Policy](https://dtmfreq.web.app/privacy)
+[Privacy Policy](https://super-turbo-nerd.github.io/DTMFreq/privacy.html)
 
 ---
 
